@@ -1,4 +1,4 @@
-# 🎭 Dad Jokes Full-Stack Application
+# 🎭 Jokes Full-Stack Application
 
 ## 🛠️ Tech Stack
 
@@ -15,7 +15,7 @@
 
 ## 📝 Description
 
-This full-stack application serves as a platform for displaying a collection of dad jokes. The project consists of a React frontend that communicates with an Express backend API to fetch and display jokes. It features a responsive design that works across different device sizes and includes a light/dark mode toggle for user preference.
+This full-stack application serves as a platform for displaying a collection of jokes. The project consists of a React frontend that communicates with an Express backend API to fetch and display jokes. It features a responsive design that works across different device sizes and includes a light/dark mode toggle for user preference.
 
 ## ✨ Key Features
 
